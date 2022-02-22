@@ -1,0 +1,2 @@
+Accuracy,Precision_Classical,Precision_Country,Precision_Dance,Precision_HipHop,Precision_Jazz,Precision_Pop,Precision_R&B,Precision_Rock,Recall_Classical,Recall_Country,Recall_Dance,Recall_HipHop,Recall_Jazz,Recall_Pop,Recall_R&B,Recall_Rock,means_squared_error
+0.40625,0.625,0.5,0.5,0.0,0.0,0.4000000059604645,0.1666666716337204,1.0,1.0,0.3333333432674408,0.6666666865348816,0.0,0.0,0.5,0.3333333432674408,0.20000000298023224,6.53125
